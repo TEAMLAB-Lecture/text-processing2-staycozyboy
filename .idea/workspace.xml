@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2608d83-bfba-4f48-8a19-e182d615f4d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/text_processing2.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_processing2.py" afterDir="false" />
-    </list>
+    <list default="true" id="b2608d83-bfba-4f48-8a19-e182d615f4d3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="test_text_processing2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_text_processing2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="546">
+              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -28,8 +26,8 @@
       <file leaf-file-name="text_processing2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text_processing2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="424">
+              <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -188,12 +186,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_text_processing2_TestTextProcessing - 2021.01.19 at 16h 35m 11s.xml">
-      <configuration name="Unittests for test_text_processing2.TestTextProcessing" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_text_processing2_TestTextProcessing - 2021.01.19 at 16h 35m 17s.xml">
-      <configuration name="Unittests for test_text_processing2.TestTextProcessing" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_text_processing2_TestTextProcessing_test_digits_to_words - 2021.01.19 at 16h 38m 18s.xml">
       <configuration name="Unittests for test_text_processing2.TestTextProcessing.test_digits_to_words" configurationId="tests" />
     </history-entry>
@@ -217,6 +209,12 @@
     </history-entry>
     <history-entry file="Unittests_for_test_text_processing2_TestTextProcessing_test_digits_to_words - 2021.01.19 at 16h 44m 02s.xml">
       <configuration name="Unittests for test_text_processing2.TestTextProcessing.test_digits_to_words" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_digits_to_words - 2021.01.19 at 16h 44m 30s.xml">
+      <configuration name="Doctest digits_to_words" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_text_processing2_py - 2021.01.19 at 16h 44m 34s.xml">
+      <configuration name="Unittests in test_text_processing2.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -267,8 +265,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_text_processing2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="546">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
@@ -277,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/text_processing2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="424">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
         </state>
       </provider>
     </entry>
